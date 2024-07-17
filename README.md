@@ -5,7 +5,7 @@
 
 ## Demo
 
-You can view a live demo of the game here: [Guess My Number Demo](https://hoangtuong1102.github.io/guess-my-number/)
+You can view a live demo of the game here: [Guess My Number Demo](https://hoangtuong1102.github.io/guess-number/)
 
 ## How to Play
 
